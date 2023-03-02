@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 3c41d2e2a48c98f41ba242834dc1351a
+  - enabled: 1
+    path: Assets/Scenes/WhiskeySimulatorLevel.unity
+    guid: 8211aaf2c3d1a524f8d476792a98ea97
+  - enabled: 1
+    path: Assets/Scenes/NewSceneforUI.unity
+    guid: 674bab7e0a4e7a745b490440536d358c
+  - enabled: 1
+    path: Assets/Scenes/Aging.unity
+    guid: 36f1b2b226071db43ba022227ee76ec2
+  - enabled: 1
+    path: Assets/Scenes/Distillation.unity
+    guid: 31ecdccbf4227d14ea9c696b8e10e29d
+  - enabled: 1
+    path: Assets/Scenes/Mashbill.unity
+    guid: 9bc3223b06f74b545a8be8d0c618b7ba
+  - enabled: 1
+    path: Assets/Scenes/Fermentation.unity
+    guid: 3200723cb367eef43b5d4a40f2b35a98
+  - enabled: 1
+    path: Assets/Scenes/Packaging.unity
+    guid: ec283992daf76e44aba068fca357336c
+  - enabled: 1
+    path: Assets/Scenes/Result.unity
+    guid: 913ba68babf2de74e86fbbfb2cd59490
+  m_configObjects: {}

@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 65db5a1b53b1aa8438b3023a008a95f2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: menuButtonsFlipped_1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 2307
+        width: 1924
+        height: 1432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe335a5eca0321419da01556ace2a4b
+      internalID: 1772319808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuButtonsFlipped_6
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 3491
+        width: 1621
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a5bf1f4549a8945914852c1fda5675
+      internalID: 1356921706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuButtonsFlipped_9
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 3257
+        width: 1631
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd2695b5aa1fb64795f3c93406ed824
+      internalID: 384539018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuButtonsFlipped_11
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 3023
+        width: 1631
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df730e76e8447b74b90303d068d1630d
+      internalID: 170852790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuButtonsFlipped_13
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 2788
+        width: 1631
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f612e6d8b6826408d50b111e8ee75a
+      internalID: 656513329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuButtonsFlipped_16
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 2554
+        width: 1644
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaddb2168c187c04286537faba1ed946
+      internalID: 571946955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuButtonsFlipped_21
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 2307
+        width: 1644
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbfd26500c4fd64c8545ce010d20752
+      internalID: -1619743421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuButtonsFlipped_23
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1756
+        width: 1116
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8cfaa9107a92c4a9ef7d19af1b8ebb
+      internalID: 1029773138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuButtonsFlipped_24
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 1756
+        width: 1128
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22380452c6b8039419217e8546929a5b
+      internalID: 1865418471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuButtonsFlipped_25
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 1756
+        width: 1245
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91f96f28433a3d4a8948c11851d9b74
+      internalID: 1990584019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuButtonsFlipped_30
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1252
+        width: 354
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc52a2545c42d7448beb7d46206c78a4
+      internalID: 725191484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuButtonsFlipped_31
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1240
+        width: 366
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69103f00997833439aeddb45400da5a
+      internalID: -1517703066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuButtonsFlipped_32
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1254
+        width: 354
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439e3686b07a9ed4c9b069cbe7e8ad71
+      internalID: -749483251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuButtonsFlipped_33
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1253
+        width: 379
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393e02479cdf1bb4f8009ed8d825cc09
+      internalID: 376850328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuButtonsFlipped_34
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 1240
+        width: 400
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e047b4e1cd5476d44b32a30927bc16c8
+      internalID: 1458571692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuButtonsFlipped_35
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 1252
+        width: 378
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04552a7710828014f93ea41329890c95
+      internalID: -1286205768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuButtonsFlipped_36
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 1253
+        width: 365
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79ee4eb204b6164f8d2a6bd3773e743
+      internalID: 965192448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuButtonsFlipped_37
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 1240
+        width: 387
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6acb92538e7fb43b142b8a0bfe8572
+      internalID: 85842035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuButtonsFlipped_38
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 1252
+        width: 354
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d56fa02ff962e94eb8384106ed0290a
+      internalID: -505105903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuButtonsFlipped_43
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 725
+        width: 378
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f714ea69f15d874ba95f61b520f00f2
+      internalID: -51256669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuButtonsFlipped_44
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 725
+        width: 367
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf84cb0c976b0d479d53b056bba29d9
+      internalID: 740106493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuButtonsFlipped_45
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 725
+        width: 377
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535a7564bfbc3ef4491a541e4742fe15
+      internalID: 545644458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuButtonsFlipped_46
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 725
+        width: 379
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558a9a23ab61b9c43b83d55f306fc3fc
+      internalID: 1266682543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuButtonsFlipped_47
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 725
+        width: 366
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8817a120f1753349afdafe8ac81fe2d
+      internalID: 828705229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuButtonsFlipped_48
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 725
+        width: 365
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5620469ce6c1fc842a1e0569ac6ff099
+      internalID: -1692670617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuButtonsFlipped_49
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 725
+        width: 377
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd39c7c06eaf22747b696671a0585688
+      internalID: -1337127778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuButtonsFlipped_50
+      rect:
+        serializedVersion: 2
+        x: 3023
+        y: 725
+        width: 376
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598a72b4b8e42bf488e3c28db5a3bddc
+      internalID: -1820797239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuButtonsFlipped_51
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 725
+        width: 366
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812c8994557f1ff408ef348f16d6a55f
+      internalID: -1149887980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuButtonsFlipped_56
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 257
+        width: 1199
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8897b8cc122c644ca37bce431741161
+      internalID: 486795488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuButtonsFlipped_58
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 276
+        width: 341
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdd994a2c2708949bfd7f036e8678a3
+      internalID: -729636344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuButtonsFlipped_59
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 233
+        width: 334
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271f1e54ad3876540bb36d946f4a2a5f
+      internalID: 2010808598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuButtonsFlipped_60
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 236
+        width: 324
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d66d4a737a19e4791361bbc7e13841
+      internalID: -1657176136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuButtonsFlipped_61
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 256
+        width: 425
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15548ff31561eb46953bd8716eb82f0
+      internalID: 1679824576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuButtonsFlipped_62
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 257
+        width: 436
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e5cbda4778b7a43925f0ebbf003c3d
+      internalID: -1401457092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuButtonsFlipped_64
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 256
+        width: 314
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d687fcb9eb88054088707e119507fd5
+      internalID: 732795075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      menuButtonsFlipped_74: 332878055
+      menuButtonsFlipped_37: 85842035
+      menuButtonsFlipped_0: 910615488
+      menuButtonsFlipped_9: 384539018
+      menuButtonsFlipped_11: 170852790
+      menuButtonsFlipped_40: -2144892052
+      menuButtonsFlipped_59: 2010808598
+      menuButtonsFlipped_75: 2083966262
+      menuButtonsFlipped_35: -1286205768
+      menuButtonsFlipped_29: -1207435453
+      menuButtonsFlipped_20: 1225406650
+      menuButtonsFlipped_73: -746047456
+      menuButtonsFlipped_48: -1692670617
+      menuButtonsFlipped_50: -1820797239
+      menuButtonsFlipped_54: -1996286430
+      menuButtonsFlipped_10: 371879551
+      menuButtonsFlipped_42: 884336973
+      menuButtonsFlipped_24: 1865418471
+      menuButtonsFlipped_21: -1619743421
+      menuButtonsFlipped_52: 1840865557
+      menuButtonsFlipped_76: 1718971280
+      menuButtonsFlipped_27: 1907866581
+      menuButtonsFlipped_67: -1192036361
+      menuButtonsFlipped_3: 1023955302
+      menuButtonsFlipped_36: 965192448
+      menuButtonsFlipped_13: 656513329
+      menuButtonsFlipped_56: 486795488
+      menuButtonsFlipped_31: -1517703066
+      menuButtonsFlipped_55: -761714649
+      menuButtonsFlipped_60: -1657176136
+      menuButtonsFlipped_16: 571946955
+      menuButtonsFlipped_6: 1356921706
+      menuButtonsFlipped_79: -1837671959
+      menuButtonsFlipped_62: -1401457092
+      menuButtonsFlipped_41: -101342290
+      menuButtonsFlipped_45: 545644458
+      menuButtonsFlipped_68: 2108287197
+      menuButtonsFlipped_66: -2099531848
+      menuButtonsFlipped_1: 1772319808
+      menuButtonsFlipped_63: 241648069
+      menuButtonsFlipped_78: -1362468150
+      menuButtonsFlipped_19: -1930646026
+      menuButtonsFlipped_15: 230072620
+      menuButtonsFlipped_71: -1540380693
+      menuButtonsFlipped_72: 932271598
+      menuButtonsFlipped_70: 957749474
+      menuButtonsFlipped_47: 828705229
+      menuButtonsFlipped_25: 1990584019
+      menuButtonsFlipped_4: -1271507943
+      menuButtonsFlipped_69: 971296223
+      menuButtonsFlipped_77: -1624527495
+      menuButtonsFlipped_34: 1458571692
+      menuButtonsFlipped_44: 740106493
+      menuButtonsFlipped_5: 1561292949
+      menuButtonsFlipped_14: -206745667
+      menuButtonsFlipped_7: -1527840929
+      menuButtonsFlipped_23: 1029773138
+      menuButtonsFlipped_39: -1358254770
+      menuButtonsFlipped_17: 1913007117
+      menuButtonsFlipped_65: -2107659281
+      menuButtonsFlipped_12: 825935994
+      menuButtonsFlipped_53: 2070015054
+      menuButtonsFlipped_46: 1266682543
+      menuButtonsFlipped_18: 118528643
+      menuButtonsFlipped_33: 376850328
+      menuButtonsFlipped_57: -105721165
+      menuButtonsFlipped_64: 732795075
+      menuButtonsFlipped_22: 1896844302
+      menuButtonsFlipped_58: -729636344
+      menuButtonsFlipped_43: -51256669
+      menuButtonsFlipped_30: 725191484
+      menuButtonsFlipped_49: -1337127778
+      menuButtonsFlipped_51: -1149887980
+      menuButtonsFlipped_26: -383907215
+      menuButtonsFlipped_8: -570383117
+      menuButtonsFlipped_28: 1344123168
+      menuButtonsFlipped_38: -505105903
+      menuButtonsFlipped_2: -1159734605
+      menuButtonsFlipped_32: -749483251
+      menuButtonsFlipped_61: 1679824576
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
